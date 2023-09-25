@@ -10,6 +10,6 @@ ydl_opts = {
 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
     ydl.download([url])
 
-
 print(f"Video downloaded is successfully")
+
 print(f"Video saved to {saving_path}")
