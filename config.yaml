@@ -1,0 +1,5 @@
+# This is a YAML configuration for 'outtmpl' option in YoutubeDL. 
+# It sets the output template for the downloaded files.
+# The downloaded files will be saved in the specified path on your desktop. 
+# The path includes the playlist name ('%(playlist)s') as a subdirectory, and files are named by their order in the playlist ('%(playlist_index)s'), title ('%(title)s'), and file extension ('%(ext)s').
+outtmpl: /Users/ahmedalmaqbali/Desktop/Muaeen/Scripts/ScriptWorkplace/downloadVid/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s
