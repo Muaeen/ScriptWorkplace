@@ -1,24 +1,62 @@
-# 🎬 ScriptWorkplace
+# 🎥 ScriptWorkplace
 
-![YouTube Logo](https://img.icons8.com/color/48/000000/youtube-play.png)
+![YouTube Logo](https://img.icons8.com/color/48/000000/youtube-play.png) 
 
-## 📌 Overview
-**ScriptWorkplace** is a repository dedicated to downloading YouTube playlists with ease. Utilizing the power of the `yt_dlp` library, it provides a seamless experience for users to fetch their favorite playlists right to their desktop.
-
-## 📂 Files Description
-
-- 📄 **config.yaml**: A configuration file that dictates the output format and the location where the downloaded videos will be saved.
-  
-- 📜 **app.log**: A dedicated log file that keeps track of the downloading process, ensuring you're always informed about the successes and the hiccups.
-  
-- 🐍 **PlayList.py**: The heart of the operation! A Python script that, when executed, fetches the YouTube playlist based on the configurations set in `config.yaml`.
-
-## 🚀 Usage
-
-1. 🛠️ Customize the `config.yaml` to your liking, setting the desired output format and save location.
-2. 🖱️ Execute the `PlayList.py` script.
-3. 📺 Input the YouTube playlist URL when prompted, and watch the magic happen!
+A powerful toolset for downloading and managing YouTube playlists using the `yt_dlp` library.
 
 ---
 
-🌟 Happy downloading and enjoy your videos!
+## 📌 Table of Contents
+
+- [Overview](#-overview)
+- [Features](#-features)
+- [Usage](#-usage)
+- [Files Description](#-files-description)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## 🌟 Overview
+
+ScriptWorkplace is designed to simplify the process of downloading YouTube playlists. With a simple configuration, you can set the desired output format and location for your videos.
+
+---
+
+## 🚀 Features
+
+- **Easy Configuration**: Use the `config.yaml` to set your preferences.
+- **Logging**: Keep track of your downloads with `app.log`.
+- **Error Handling**: The script is equipped to handle various exceptions, ensuring smooth downloads.
+
+---
+
+## 🖥️ Usage
+
+1. Clone this repository.
+2. Update the `config.yaml` with your desired output format and location.
+3. Run the `PlayList.py` script.
+4. Enter the YouTube playlist URL when prompted.
+
+---
+
+## 📂 Files Description
+
+- **config.yaml**: Configuration file for setting the output format and location of downloaded videos.
+- **app.log**: A log file that records the activities of the playlist downloading process.
+- **PlayList.py**: The main Python script that facilitates the downloading of YouTube playlists.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](#). PRs are accepted.
+
+---
+
+## 📜 License
+
+This project is [MIT](#) licensed.
+
+---
+
