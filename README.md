@@ -13,7 +13,7 @@ A powerful toolset for downloading and managing YouTube playlists using the `yt_
 - [Usage](#-usage)
 - [Files Description](#-files-description)
 - [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
@@ -53,10 +53,3 @@ ScriptWorkplace is designed to simplify the process of downloading YouTube playl
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](#). PRs are accepted.
 
 ---
-
-## 📜 License
-
-This project is [MIT](#) licensed.
-
----
-
